@@ -1,4 +1,4 @@
-/*
+
 // 4.1_Exercice 1
 // demande un numéro
 var x = Number(prompt("choisi un numéro"));
@@ -34,7 +34,7 @@ for (var i = 0; i < nombreEnfants; i++) {
     alert("Bonjour " + prenomsEnfants[i]);
 }
 
-*/
+
 
 // 4.4_Exercice 4
 var stockagePrenoms = [];

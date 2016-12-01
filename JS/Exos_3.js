@@ -1,4 +1,3 @@
-/*
 // 3.1_Exercice 1
 //Demander la températeur 
 var temperature = prompt("Quelle est la température extérieur");
@@ -81,10 +80,5 @@ for (var i = 0; i < 10; i++) {
         } else if (ageConsommateur >= 18) {
             alert("Le prix du maillot est de 25€");
         }
-
-
-
-
-
     }
 }

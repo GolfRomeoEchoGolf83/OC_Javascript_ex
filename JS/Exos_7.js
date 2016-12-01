@@ -4,7 +4,7 @@
 var nombre = Math.floor(Math.random() * 100 + 1);
 console.log(nombre);
 
-/*
+
 // demander de deviner le nombre
 while (nombreChoisi !== nombre) {
     var nombreChoisi = Number(prompt("Quel est le nombre ?"));
@@ -44,7 +44,6 @@ if (nombreChoisi === nombre) {
 }
 
 
-/*
 // Exercice_3
 var difficulte = Number(prompt("1, 2 ou 3"))
 
